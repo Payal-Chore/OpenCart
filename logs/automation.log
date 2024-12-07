@@ -1,0 +1,37 @@
+16:25:52.043 [main]  INFO  testCases.TC001_AccountRegistrationTest -*** Finished TC001_AccountRegistrationTest ***
+16:29:25.839 [main]  INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workspaces\Layover-Workspace\OpenCart\master.xml
+
+16:29:34.639 [main]  INFO  testCases.TC001_AccountRegistrationTest -*** Started TC001_AccountRegistrationTest ***
+16:29:34.811 [main]  INFO  testCases.TC001_AccountRegistrationTest -Clicked on My Account link
+16:29:35.909 [main]  INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register link
+16:29:35.915 [main]  INFO  testCases.TC001_AccountRegistrationTest -Provideing customer details
+16:29:37.949 [main]  INFO  testCases.TC001_AccountRegistrationTest -Validate expected message..
+16:29:38.009 [main]  INFO  testCases.TC001_AccountRegistrationTest -*** Finished TC001_AccountRegistrationTest ***
+16:30:37.883 [main]  INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workspaces\Layover-Workspace\OpenCart\master.xml
+
+16:30:47.108 [main]  INFO  testCases.TC001_AccountRegistrationTest -*** Started TC001_AccountRegistrationTest ***
+16:30:47.268 [main]  INFO  testCases.TC001_AccountRegistrationTest -Clicked on My Account link
+16:30:52.152 [main]  INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register link
+16:30:52.165 [main]  INFO  testCases.TC001_AccountRegistrationTest -Provideing customer details
+16:30:54.434 [main]  INFO  testCases.TC001_AccountRegistrationTest -Validate expected message..
+16:30:54.480 [main]  INFO  testCases.TC001_AccountRegistrationTest -*** Finished TC001_AccountRegistrationTest ***
+17:14:45.125 [main]  INFO  testCases.TC001_AccountRegistrationTest -*** Started TC001_AccountRegistrationTest ***
+17:14:45.308 [main]  INFO  testCases.TC001_AccountRegistrationTest -Clicked on My Account link
+17:14:48.386 [main]  INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register link
+17:14:48.392 [main]  INFO  testCases.TC001_AccountRegistrationTest -Provideing customer details
+17:14:50.473 [main]  INFO  testCases.TC001_AccountRegistrationTest -Validate expected message..
+17:14:50.525 [main]  INFO  testCases.TC001_AccountRegistrationTest -*** Finished TC001_AccountRegistrationTest ***
+17:50:23.856 [main]  INFO  testCases.TC001_AccountRegistrationTest -*** Started TC001_AccountRegistrationTest ***
+17:50:24.711 [main]  INFO  testCases.TC001_AccountRegistrationTest -Clicked on My Account link
+17:50:26.125 [main]  INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register link
+17:50:26.172 [main]  INFO  testCases.TC001_AccountRegistrationTest -Provideing customer details
+17:50:28.644 [main]  INFO  testCases.TC001_AccountRegistrationTest -Validate expected message..
+17:50:28.717 [main]  INFO  testCases.TC001_AccountRegistrationTest -*** Finished TC001_AccountRegistrationTest ***
+18:11:10.789 [main]  INFO  testCases.TC001_AccountRegistrationTest -*** Started TC001_AccountRegistrationTest ***
+18:11:11.160 [main]  INFO  testCases.TC001_AccountRegistrationTest -Clicked on My Account link
+18:11:12.254 [main]  INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register link
+18:11:12.264 [main]  INFO  testCases.TC001_AccountRegistrationTest -Provideing customer details
+18:11:14.027 [main]  INFO  testCases.TC001_AccountRegistrationTest -Validate expected message..
+18:11:14.085 [main]  INFO  testCases.TC001_AccountRegistrationTest -*** Finished TC001_AccountRegistrationTest ***

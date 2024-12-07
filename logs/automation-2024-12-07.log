@@ -1,0 +1,71 @@
+18:15:50.149 [main]  INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workspaces\Layover-Workspace\OpenCart\master.xml
+
+18:16:48.625 [main]  INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workspaces\Layover-Workspace\OpenCart\master.xml
+
+18:18:12.907 [main]  INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workspaces\Layover-Workspace\OpenCart\master.xml
+
+18:26:41.249 [main]  INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workspaces\Layover-Workspace\OpenCart\master.xml
+
+18:28:42.328 [main]  INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workspaces\Layover-Workspace\OpenCart\master.xml
+
+18:30:34.393 [main]  INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workspaces\Layover-Workspace\OpenCart\master.xml
+
+18:31:36.914 [main]  INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workspaces\Layover-Workspace\OpenCart\master.xml
+
+18:31:45.785 [main]  INFO  testCases.TC002_LoginTest -*** Started TC002_LoginTest ***
+18:31:46.460 [main]  INFO  testCases.TC002_LoginTest -Clicked on My Account link
+18:31:48.158 [main]  INFO  testCases.TC002_LoginTest -*** Finished TC002_LoginTest ***
+18:50:48.593 [main]  INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workspaces\Layover-Workspace\OpenCart\grouping.xml
+
+18:50:56.950 [main]  INFO  testCases.TC001_AccountRegistrationTest -*** Started TC001_AccountRegistrationTest ***
+18:50:57.127 [main]  INFO  testCases.TC001_AccountRegistrationTest -Clicked on My Account link
+18:50:58.186 [main]  INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register link
+18:50:58.191 [main]  INFO  testCases.TC001_AccountRegistrationTest -Provideing customer details
+18:51:00.307 [main]  INFO  testCases.TC001_AccountRegistrationTest -Validate expected message..
+18:51:00.373 [main]  INFO  testCases.TC001_AccountRegistrationTest -*** Finished TC001_AccountRegistrationTest ***
+18:51:08.744 [main]  INFO  testCases.TC002_LoginTest -*** Started TC002_LoginTest ***
+18:51:09.598 [main]  INFO  testCases.TC002_LoginTest -Clicked on My Account link
+18:51:11.491 [main]  INFO  testCases.TC002_LoginTest -*** Finished TC002_LoginTest ***
+11:13:37.768 [main]  INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workspaces\Layover-Workspace\OpenCart\grouping.xml
+
+11:14:18.132 [main]  INFO  testCases.TC001_AccountRegistrationTest -*** Started TC001_AccountRegistrationTest ***
+11:14:19.081 [main]  INFO  testCases.TC001_AccountRegistrationTest -Clicked on My Account link
+11:14:21.281 [main]  INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register link
+11:14:21.286 [main]  INFO  testCases.TC001_AccountRegistrationTest -Provideing customer details
+11:14:23.616 [main]  INFO  testCases.TC001_AccountRegistrationTest -Validate expected message..
+11:14:23.842 [main]  INFO  testCases.TC001_AccountRegistrationTest -*** Finished TC001_AccountRegistrationTest ***
+11:16:48.895 [main]  INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workspaces\Layover-Workspace\OpenCart\master.xml
+
+11:17:10.809 [main]  INFO  testCases.TC001_AccountRegistrationTest -*** Started TC001_AccountRegistrationTest ***
+11:17:10.972 [main]  INFO  testCases.TC001_AccountRegistrationTest -Clicked on My Account link
+11:17:14.406 [main]  INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register link
+11:17:14.410 [main]  INFO  testCases.TC001_AccountRegistrationTest -Provideing customer details
+11:17:15.894 [main]  INFO  testCases.TC001_AccountRegistrationTest -Validate expected message..
+11:17:15.947 [main]  INFO  testCases.TC001_AccountRegistrationTest -*** Finished TC001_AccountRegistrationTest ***
+16:17:01.964 [main]  INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workspaces\Layover-Workspace\OpenCart\master.xml
+
+16:17:17.104 [main]  INFO  testCases.TC001_AccountRegistrationTest -*** Started TC001_AccountRegistrationTest ***
+16:17:18.089 [main]  INFO  testCases.TC001_AccountRegistrationTest -Clicked on My Account link
+16:17:21.114 [main]  INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register link
+16:17:21.137 [main]  INFO  testCases.TC001_AccountRegistrationTest -Provideing customer details
+16:17:23.044 [main]  INFO  testCases.TC001_AccountRegistrationTest -Validate expected message..
+16:17:23.119 [main]  INFO  testCases.TC001_AccountRegistrationTest -*** Finished TC001_AccountRegistrationTest ***
+16:25:28.817 [main]  INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workspaces\Layover-Workspace\OpenCart\master.xml
+
+16:25:46.558 [main]  INFO  testCases.TC001_AccountRegistrationTest -*** Started TC001_AccountRegistrationTest ***
+16:25:46.730 [main]  INFO  testCases.TC001_AccountRegistrationTest -Clicked on My Account link
+16:25:49.881 [main]  INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register link
+16:25:49.885 [main]  INFO  testCases.TC001_AccountRegistrationTest -Provideing customer details
+16:25:51.970 [main]  INFO  testCases.TC001_AccountRegistrationTest -Validate expected message..
